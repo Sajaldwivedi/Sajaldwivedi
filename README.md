@@ -161,17 +161,20 @@
 
 <div align="center">
 
-### 🟠 LeetCode
+<a href="https://leetcode.com/u/Sajal25/">
+    <img src="https://img.shields.io/badge/LeetCode-Sajal25-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
-**Username:** **Sajal25**
+<br><br>
 
-🏆 **600+ Problems Solved**
+<img src="https://leetcode.card.workers.dev/Sajal25?theme=dark&font=baloo&extension=null"/>
 
-⭐ Consistently practicing Data Structures & Algorithms
+<br>
+
+<img src="https://leetcard.jacoblin.cool/Sajal25?theme=dark&font=Nunito&ext=contest"/>
 
 </div>
 
----
 
 # 🌐 Connect With Me
 
