@@ -39,6 +39,8 @@ PyTorch | Scikit-learn | Qiskit | NumPy | Pandas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajaldwivedi&show_icons=true&theme=tokyonight)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=Sajaldwivedi&theme=tokyonight)
+
 ---
 
 ## 🌐 Connect
